@@ -1,0 +1,22 @@
+{
+  "name": "angular-downloadify",
+  "authors": [
+    "Thangamuthu",
+    "Palanisamy(AWF) <pthangamuthu@ebay.com>"
+  ],
+  "description": "",
+  "main": "directive.js",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.0.6"
+  }
+}
