@@ -1,0 +1,2 @@
+# bowertest
+test bower component
